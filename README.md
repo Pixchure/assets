@@ -1,2 +1,2 @@
-# assets
-Assets for my projects. Nothing special 
+# Assets
+Random assets for my projects I guess. Nothing special 
